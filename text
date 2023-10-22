@@ -1,0 +1,19 @@
+<nav style="background-color: rgb(70, 85, 171);" class="navbar bg-body-tertiary">
+    <div class="container-fluid">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <a class="navbar-brand" href="index.html">
+        <h3 style="color: aliceblue;">  RESUME GENERATOR</h3>
+      </a>
+      <li class="nav-item">
+        <a class="nav-link active" href="index.html" style="color: aliceblue; ">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" href="index.html" style="color: aliceblue; ">About</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" href="index.html" style="color: aliceblue; ">Contact</a>
+      </li>
+     </ul>
+    </div>
+    
+  </nav>
